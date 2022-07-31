@@ -1,0 +1,17 @@
+{
+  "name": "get_nft_info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-sdk": "^1.2.0",
+    "node-fetch": "^3.2.10",
+    "web3": "^1.7.4"
+  }
+}
